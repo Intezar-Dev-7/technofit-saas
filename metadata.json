@@ -1,0 +1,6 @@
+{
+  "name": "Technofit",
+  "description": "Clean, modern gym management software for Technofit, Mapusa, Goa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
